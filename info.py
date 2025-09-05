@@ -85,7 +85,7 @@ FORCESUB_IMG = getenv('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg
 REFER_PICS = getenv("REFER_PICS", "https://envs.sh/PSI.jpg").split()
 PAYPICS = getenv('PAYPICS', 'https://envs.sh/tYV.jpg').split()
 SUBSCRIPTION = getenv('SUBSCRIPTION', 'https://graph.org/file/9f3f47c690bbcc67633c2.jpg')
-REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
+
 
 # Settings
 FILE_AUTO_DEL_TIMER = int(getenv('FILE_AUTO_DEL_TIMER', '600'))
