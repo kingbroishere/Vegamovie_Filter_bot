@@ -168,4 +168,7 @@ cmds = [
     {"admin_cmds": "Bot Admin Commands"}
 ]
 
+FILE_DB_URI = F_DB_URI
+SEC_FILE_DB_URI = S_DB_URI
+
 # Assign
