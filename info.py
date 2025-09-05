@@ -28,7 +28,7 @@ MOVIE_GROUP_LINK = getenv('MOVIE_GROUP_LINK', 'https://t.me/+PW_MtYXtAKZkYTU9')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in getenv('CHANNELS', '-1003034407154').split()]
 
 # Database Config
-DATABASE_URI = getenv('DATABASE_URI', "mongodb+srv://creatingking7_db_user:<db_password>@cluster0.lw5qo5n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = getenv('DATABASE_URI', "mongodb+srv://creatingking7_db_user:Alone9090@cluster0.lw5qo5n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = getenv('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = getenv('COLLECTION_NAME', 'lazyfilesx')
 
