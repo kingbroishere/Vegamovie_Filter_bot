@@ -22,4 +22,4 @@ RUN pip install --upgrade pip && \
 
 EXPOSE 8080
 
-CMD ["python", "main.py"]  # change this if needed
+CMD ["python", "bot.py"]  # change this if needed
