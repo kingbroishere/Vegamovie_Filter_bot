@@ -14,3 +14,4 @@ JisshuBot = Client(
     workers=50,
     plugins=dict(root="plugins")  # Optional: only if you're using plugin support
 )
+print("BOT_TOKEN:", BOT_TOKEN)
